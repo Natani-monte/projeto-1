@@ -1,2 +1,3 @@
-# projeto-1
-meu codigo  :smiley:
+Hello, Meu nome é Natani Monte
+Brasileira 
+Graduação em Pedagogia  e  iniciando  em programação  :computer:
